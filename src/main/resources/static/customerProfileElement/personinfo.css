@@ -1,0 +1,13 @@
+.updateprofile{
+    max-width: 500px;
+    margin: auto;
+    background: #f3f3f3;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+.updateprofile button{
+    width: 120px;
+    margin:auto;
+    background-color: green;
+}
